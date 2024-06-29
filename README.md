@@ -1,1 +1,1 @@
-# swing-social
+# Swing | Social
