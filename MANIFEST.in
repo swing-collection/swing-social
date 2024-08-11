@@ -1,0 +1,3 @@
+include README.md
+recursive-include src/swing_social/static *
+recursive-include src/swing_social/templates *
